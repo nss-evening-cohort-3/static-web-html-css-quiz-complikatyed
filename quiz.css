@@ -16,3 +16,8 @@ img {
   margin: 10px auto;
   display: block;
 }
+
+.description {
+  text-align: justify;
+  padding: 5px;
+}
