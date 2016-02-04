@@ -25,4 +25,7 @@ img {
 .availability {
   background-color: darkgrey;
   color: yellow;
+  margin: 10px 0;
+  padding: 5px;
 }
+
