@@ -21,3 +21,8 @@ img {
   text-align: justify;
   padding: 5px;
 }
+
+.availability {
+  background-color: darkgrey;
+  color: yellow;
+}
