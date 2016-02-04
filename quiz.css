@@ -43,3 +43,9 @@ h2, h3 {
   margin: 5px;
 }
 
+.specs,
+.price {
+  margin-left: 30px;
+  font-weight: 700;
+}
+
