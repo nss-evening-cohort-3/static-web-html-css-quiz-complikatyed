@@ -1,0 +1,51 @@
+.card {
+  width: 30%;
+  border: 1px solid lightblue;
+  float: left;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.header_border {
+  border: 1px dotted lightgrey;
+  text-align: center;
+}
+
+img {
+  max-width: 200px;
+  margin: 10px auto;
+  display: block;
+}
+
+.description {
+  text-align: justify;
+  padding: 5px;
+}
+
+.availability {
+  background-color: darkgrey;
+  color: yellow;
+  margin: 10px 0;
+  padding: 5px;
+}
+
+.tiny {
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.indent {
+  margin-left: 15px;
+}
+
+h2, h3 {
+  font-weight: normal;
+  margin: 5px;
+}
+
+.specs,
+.price {
+  margin-left: 30px;
+  font-weight: 700;
+}
+
